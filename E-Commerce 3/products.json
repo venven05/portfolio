@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "seller": "Manfinity EMRG",
+        "name": "Men's Denim Jacket Light Wash",
+        "price": 1410,
+        "image": "img/products/f1.png"
+    },
+    {
+        "id": 2,
+        "seller": "Manfinity EMRG",
+        "name": "Men's Denim Jacket White",
+        "price": 1339,
+        "image": "img/products/f2.png"
+    },
+    {
+        "id": 3,
+        "seller": "Manfinity EMRG",
+        "name": "Men's Denim Jacket Coffee Brown",
+        "price": 1005,
+        "image": "img/products/f3.png"
+    },
+    {
+        "id": 4,
+        "seller": "Manfinity EMRG",
+        "name": "Men's Denim Jacket Red",
+        "price": 1339,
+        "image": "img/products/f4.png"
+    },
+    {
+        "id": 5,
+        "seller": "Manfinity Homme",
+        "name": "Men's Cargo Pants Black",
+        "price": 829,
+        "image": "img/products/f5.png"
+    },
+    {
+        "id": 6,
+        "seller": "Manfinity Homme",
+        "name": "Men's Cargo Pants Light Grey",
+        "price": 829,
+        "image": "img/products/f6.png"
+    },
+    {
+        "id": 7,
+        "seller": "Manfinity Homme",
+        "name": "Men's Cargo Pants Green",
+        "price": 829,
+        "image": "img/products/f7.png"
+    },
+    {
+        "id": 8,
+        "seller": "Manfinity Homme",
+        "name": "Men's Cargo Pants Khaki",
+        "price": 829,
+        "image": "img/products/f8.png"
+    },
+    {
+        "id": 9,
+        "seller": "QZlingchuang",
+        "name": "Men's White Sneakers",
+        "price": 964,
+        "image": "img/products/f9.png"
+    },
+    {
+        "id": 10,
+        "seller": "Huayue Yjm",
+        "name": "Men's Khaki Outdoor Sneakers",
+        "price": 1086,
+        "image": "img/products/f10.png"
+    },
+    {
+        "id": 11,
+        "seller": "Vogue trace",
+        "name": "Men's Black Casual Shoes",
+        "price": 899,
+        "image": "img/products/f11.png"
+    },
+    {
+        "id": 12,
+        "seller": "One shoe for each person",
+        "name": "Men's Casual Sports Shoes",
+        "price": 944,
+        "image": "img/products/f12.png"
+    },
+    {
+        "id": 13,
+        "seller": "DANIELS&DIANA",
+        "name": "Men's Black Baseball Cap",
+        "price": 140,
+        "image": "img/products/f13.png"
+    },
+    {
+        "id": 14,
+        "seller": "Lude&Hein",
+        "name": "3pcs Multicolor Fashion Glasses",
+        "price": 129,
+        "image": "img/products/f14.png"
+    },
+    {
+        "id": 15,
+        "seller": "Pinzzzz",
+        "name": "Men's Automatic Casual Belt",
+        "price": 144,
+        "image": "img/products/f15.png"
+    },
+    {
+        "id": 16,
+        "seller": "World Time",
+        "name": "Set Men's Wrist Accessories",
+        "price": 125,
+        "image": "img/products/f16.png"
+    }
+]
